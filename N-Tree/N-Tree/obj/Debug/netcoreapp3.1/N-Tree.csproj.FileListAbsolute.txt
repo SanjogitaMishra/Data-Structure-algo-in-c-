@@ -1,0 +1,13 @@
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\bin\Debug\netcoreapp3.1\N-Tree.exe
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\bin\Debug\netcoreapp3.1\N-Tree.deps.json
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\bin\Debug\netcoreapp3.1\N-Tree.runtimeconfig.json
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\bin\Debug\netcoreapp3.1\N-Tree.runtimeconfig.dev.json
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\bin\Debug\netcoreapp3.1\N-Tree.dll
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\bin\Debug\netcoreapp3.1\N-Tree.pdb
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\obj\Debug\netcoreapp3.1\N-Tree.csprojAssemblyReference.cache
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\obj\Debug\netcoreapp3.1\N-Tree.AssemblyInfoInputs.cache
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\obj\Debug\netcoreapp3.1\N-Tree.AssemblyInfo.cs
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\obj\Debug\netcoreapp3.1\N-Tree.csproj.CoreCompileInputs.cache
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\obj\Debug\netcoreapp3.1\N-Tree.dll
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\obj\Debug\netcoreapp3.1\N-Tree.pdb
+C:\Users\sanjogitamishra\source\repos\N-Tree\N-Tree\obj\Debug\netcoreapp3.1\N-Tree.genruntimeconfig.cache
